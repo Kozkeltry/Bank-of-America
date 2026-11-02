@@ -28,9 +28,9 @@ This is a simple console-based banking application written in C++ to demonstrate
 
 ## 📖 Как запустить / How to Run
 
-1. Скомпилируйте файл `main.cpp` с помощью любого компилятора C++ (например, GCC):
+1. Скомпилируйте файл `binance.cpp` с помощью любого компилятора C++ (например, GCC):
    ```bash
-   g++ main.cpp -o bank_system
+   g++ binance.cpp -o bank_system
    ```
 2. Запустите собранный файл:
    ```bash
